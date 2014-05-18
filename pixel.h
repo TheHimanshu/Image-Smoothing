@@ -20,7 +20,7 @@ int getRed() const;
 int getGreen() const;
 int getBlue() const;
 
-//  Setter or Modifier Functions
+//  Mutator Functions
 void setPixel_value(int r, int g, int b);
 void setBlue(int);
 void setGreen(int);
